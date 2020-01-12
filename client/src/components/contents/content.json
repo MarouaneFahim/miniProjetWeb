@@ -1,0 +1,48 @@
+[
+    {
+    "id" : 1,
+    "name" : "khalid"
+      
+    }
+    ,
+    {
+        "id" : 2,
+        "name" : "marouane"
+          
+    }
+    ,
+    {
+        "id" : 3,
+        "name" : "youssef"
+          
+        }
+        ,
+        {
+            "id" : 4,
+            "name" : "hicham"
+              
+    }
+    ,
+    {
+        "id" : 5,
+        "name" : "rachid"
+          
+    }
+    ,
+    {
+        "id" : 6,
+        "name" : "zakaria"
+              
+    }
+    ,
+    {
+        "id" : 7,
+        "name" : "yassine"
+              
+    }
+    ,
+    {
+        "id" : 8,
+        "name" : "simo"          
+    }
+]

@@ -1,0 +1,51 @@
+html,body{
+  height: 100%;
+}
+
+.App {
+    text-align: center;
+    height: 100%;
+}
+  .mainContainer  {
+    width: 100%;
+  }
+
+  .Table
+  {
+    margin: auto;
+    width: 100%;
+  }
+  
+  .MaterialTable:nth-child(even){
+    background-color:red;
+    }
+  
+  .MaterialTable:nth-child(odd){
+    background-color:black;
+    }
+  
+    .switch label input[type=checkbox]:checked+.lever:after {
+      background-color: #303F9F !important;
+  }
+  .switch label input[type=checkbox]:checked+.lever {
+      background-color: #303F9F !important;
+  }
+    
+    .Line {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  
+    .oneLine {
+      height: auto;
+      margin-right: 8px;
+    }
+    .up{
+      padding-top: 20px;
+    }
+  
+    .up + div{
+        margin-right: 80px;
+    }
+
